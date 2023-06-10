@@ -1,0 +1,162 @@
+*{
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  text-decoration: none;
+}
+.wrapper1{
+  width: 1195px;
+  margin: 0 auto;
+  height: 88px;
+  padding-bottom: 15px;
+}
+.wrapper1-logo{
+  width: 1195px;
+  margin: 0 auto;
+  height: 121px;
+  background-color: #fff;
+}
+
+.logo{
+  width: 120px;
+  height: 50px;
+  text-align: center;
+  color: #242c6b;
+  font-weight: bold;
+  float: left;
+  font-size: 50px;
+  line-height: 103px;
+  margin-left: 10px;
+  margin-right: 150px;
+}
+
+.text{
+  float: left;
+  width: 600px;
+  height: 40px;
+  margin: 30px 100px 0 30px;
+  background-color: rgb(242, 251, 255);
+  border: 1px solid #396ad5;
+  text-align: center;
+  color: #000000;
+  line-height: 16px;
+  font-size: 20px;
+}
+.text p{
+  line-height: 40px;
+}
+
+
+.wrapper2{
+  border-top: 2pt solid #6C6C6C;
+  height: 600px;
+  background-image: url(./images/register-backimg.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  width: 100%;
+}
+.wrapper2-1{
+  position: relative;
+  width: 1195px;
+  margin: 0 auto;
+  height: 600px;
+}
+.login-area{
+  background-color: rgb(242, 251, 255);
+  position: absolute;
+  top: 125px;
+  right: 100px;
+  width: 350px;
+  height: 350px;
+}
+#login-nav{
+    margin-left: 25px;
+    margin-top: 30px;
+    font-size: 16px;
+    font-weight: bold;
+}
+.user-pw-submit{
+  height: 220px;
+}
+.user-box{
+  background-image: url(./images/username.png);
+  background-repeat: no-repeat;
+  background-position: left;
+  background-size: contain;
+  padding: 5px 8px 5px 50px;
+  line-height: 30px;
+  width: 240px;
+  border-width: 0;
+  text-indent: 3px;
+  border-color: #fff;
+  font-size: 14px;
+  outline: 0;
+  margin-top: 30px;
+  margin-left: 25px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  color: #999;
+}
+.pw-box{
+  background-image: url(./images/password.png);
+  background-repeat: no-repeat;
+  background-position-x: 1pt;
+  background-position-y: 2pt;
+  background-size: 12%;
+  padding: 5px 8px 5px 50px;
+  line-height: 30px;
+  width: 240px;
+  border-width: 0;
+  text-indent: 3px;
+  border-color: #fff;
+  font-size: 14px;
+  outline: 0;
+  margin-top: 30px;
+  margin-left: 25px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  color: #999;
+}
+.submitup{
+  background-color: #1d2a38;
+  height: 40px;
+  width: 300px;
+  margin-top: 30px;
+  margin-left: 25px;
+  border: 0;
+  text-align: center;
+  line-height: 40px;
+  font-size: 22px;
+  color: white;
+  cursor: pointer;
+}
+.userpw-more{
+  margin-top: 30px;
+  margin-right: 10px;
+}
+.userpw-more a{
+  float: right;
+  color: #6c6c6c;
+  margin-right: 20px;
+  font-size: 12px;
+}
+.wrapper3{
+  display: block;
+  width: 1195px;
+  margin: 40px auto;
+  height: 50px;
+}
+.footer p{
+  color: #6c6c6c;
+  font-size: 12px;
+}
+.footer a{
+  float: left;
+  margin-right: 15px;
+  color: #6c6c6c;
+}
+.footer b{
+  float: left;
+  margin-right: 15px;
+  color: #ddd;
+}

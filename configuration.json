@@ -1,0 +1,26 @@
+{
+    "MLaaS" :
+        {
+            "python_directory" : "/root/miniconda3/envs/pytorch/bin/python3",
+            "Huawei_Key" : "GC2XNU4FG1NGT5UNH0MW",
+            "Huawei_Secret" : "EY1dNiTmZdrAc9q0Oqs6DgOHMYP3T0drCBT0ficR"
+        },
+
+    "Local" :
+        {
+            "python_directory" : "/root/miniconda3/envs/pytorch/bin/python3",
+            "Type_groundtruth" : "Other",
+            "this_is_comment_for_type" : "CNN, RNN, FNN, Other",
+            "number_of_substitution_model_in_NN" : 1,
+            "this_is_comment_for_number" : "1,2,3"
+        },
+
+    "database" :
+        {
+            "server" : "localhost",
+            "username" : "root",
+            "password" : "123456",
+            "database" : "SNIFFER",
+            "port" : "3306"
+        }
+}
